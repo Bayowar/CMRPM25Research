@@ -1,4 +1,4 @@
-"""
+
 # The Critical Influence of Air Pollution and Socioeconomic Status on Cardiovascular Mortality Rates in the U.S.
 
 
@@ -90,4 +90,4 @@ import seaborn as sns               # Statistical Data Visualization
 
 Ensure your environment has these packages installed. You can use pip or conda to install them individually based on your preference.
 
-Mentored by Prof. LaKeta Kemp """
+Mentored by Prof. LaKeta Kemp

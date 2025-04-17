@@ -95,4 +95,6 @@ Ensure your environment has these packages installed. You can use pip or conda t
 Markdown file
 [researchpaperdata2_0_0.md](https://github.com/user-attachments/files/19797460/researchpaperdata2_0_0.md).
 
+[Data science portfolio](https://github.com/Bayowar/Bayowar.github.io.git)
+
 Mentored by Prof. LaKeta Kemp

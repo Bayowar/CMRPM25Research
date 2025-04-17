@@ -90,4 +90,7 @@ import seaborn as sns               # Statistical Data Visualization
 
 Ensure your environment has these packages installed. You can use pip or conda to install them individually based on your preference.
 
+(Ipynb file link){https://github.com/Bayowar/CMRPM25Research/blob/a2e6026893344e6274b63c15ce27036d8d115803/researchpaperdata2_0_0-2.ipynb}
+(Markdown file)[researchpaperdata2_0_0.md](https://github.com/user-attachments/files/19797460/researchpaperdata2_0_0.md)
+
 Mentored by Prof. LaKeta Kemp

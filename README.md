@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project investigates the intersection of **air pollution (PM2.5)** and **socioeconomic status (SES)** on **cardiovascular disease (CVD)** mortality across U.S. states. Leveraging national datasets from 1990 to 2010, the research reveals how environmental and economic disparities contribute to significant health outcomes — with major implications for **public health policy and social justice**.
+This project investigates the intersection of air pollution,specifically particulate matter 2.5 (PM2.5) and socioeconomic status (SES) on cardiovascular disease (CVD) mortality across U.S. states. Leveraging national datasets from 1990 to 2010, the research reveals how environmental and economic disparities contribute to significant health outcomes — with major implications for **public health policy and social justice**.
 
 ---
 

@@ -8,7 +8,9 @@ Cardiovascular disease (CVD) continues to be one of the leading cause of death i
 Communities with lower income, poorer healthcare access, and diminished political capital are disproportionately located in over-populated areas prone to increased pollution. These populations face dual vulnerabilities: they are more exposed to pollutants and less equipped to mitigate their health impacts. 
 
 [image](output_103_0.png).
+
 [image](output_103_1.png).
+
 [image](output_103_2.png).
 
 ### Why Cardiovascular Disease is Significant. 

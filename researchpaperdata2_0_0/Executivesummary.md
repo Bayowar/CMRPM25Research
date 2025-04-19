@@ -6,7 +6,7 @@
 
 Cardiovascular disease (CVD) continues to be one of the leading cause of death in the United States. While its biomedical causes have been well-documented, this study expands the discourse by examining the intersection between air pollution—particularly fine particulate matter (PM2.5)—and socioeconomic status (SES). It reframes CVD as not merely a medical condition, but as a public health outcome shaped by socio-structural inequality and environmental injustice.
 Communities with lower income, poorer healthcare access, and diminished political capital are disproportionately located in over-populated areas prone to increased pollution. These populations face dual vulnerabilities: they are more exposed to pollutants and less equipped to mitigate their health impacts. 
-[image](researchpaperdata2_0_0/output_103_0.png)
+[image](output_103_0.png)
 ### Why Cardiovascular Disease is Significant. 
 
 Cardiovascular disease (CVD) is a class of diseases that affect the heart or blood vessels in simple terms. These conditions include and are not limited to coronary artery disease , stroke, heart failure and hypertension (more likely a risk factor). CVD is a critical public health concern due to its high prevalence and substantial impact on morbidity and mortality, contributing significantly to healthcare costs and reduced quality of life. An understanding of its determinants is essential for developing effective prevention, intervention strategies and for healthier communities.

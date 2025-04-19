@@ -54,6 +54,7 @@ Exploratory anslysis, descriptive statistics, correlation analysis,regression mo
 ### Limitations.
 Lack of causality due to the snap-shot nature of cross-sectional data.
 
+[image](output_134_0.png)
 
 # Analysis
 Our findings reveal that impact of socioeconomic disparities are as significant as pm2.5 exposure on CMR. A few southern states ranked high on pollution and cardiovascular mortality, and low on income and education, suggesting geographic clustering of socio-environmental injustice associated with increased cardiovascular disease mortality rate.

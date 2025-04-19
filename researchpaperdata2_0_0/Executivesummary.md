@@ -71,6 +71,8 @@ While our visualizations suggest a potentially weak direct influence of overall 
 
 It is important to note that these are ecological correlations. While they can suggest potential relationships at the population level, they do not establish individual-level causation. Further individual-level studies would be needed to confirm these associations and understand the underlying mechanisms.
 
+[image](output_128_0.png)
+
 # Recommendations
 
 Achieving socio-environmental justice demands immediate, transformative action through a decisive four-year phased strategy. By prioritizing high-burden areas initially for stricter, vulnerability-based air quality regulations and robust enforcement across individuals, entrepreneurs, businesses, and industries. Concurrently, a phased expansion of healthcare access via mobile clinics and Medicaid is important. Long-term resilience requires phased investments in education and green job creation. System-wide building permitting reform mandating Green or Social Health Equity Impact Assessments is essential. The initial phase necessitates a 100 million dollar grant allocation with joint EPA-HHS task force oversight, emphasizing parallel state legislation, meaningful community engagement, transparency, and strict, ongoing impact evaluation to inform action and improve lives in the most vulnerable communities.

@@ -66,7 +66,7 @@ The analysis is based on five publicly available datasets:
 
 ## Results Highlights
 
-- Counties with higher PM2.5 and lower SES show significantly higher CVD mortality.
+- Counties with higher PM2.5 show significantly higher CVD mortality.
 
 
 ---

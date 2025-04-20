@@ -93,7 +93,7 @@ Ensure your environment has these packages installed. You can use pip or conda t
 [Ipynb file link](https://github.com/Bayowar/CMRPM25Research/blob/9d9dd8d030ef054193413404a175b630bf890645/researchpaperdata2_0_0-2.ipynb).
 
 Markdown file
-[researchpaperdata2_0_0.md](https://github.com/user-attachments/files/19820042/researchpaperdata2_0_0.md).
+[researchpaperdata2_0_0.md](https://github.com/Bayowar/CMRPM25Research/blob/5e440d398f12b82880548a7f590ca9815ac0075e/researchpaperdata2_0_0/researchpaperdata2_0_0.md).
 
 [Data science portfolio](https://github.com/Bayowar/Bayowar.github.io.git)
 
